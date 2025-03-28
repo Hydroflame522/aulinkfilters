@@ -1,6 +1,7 @@
 dropbox.com
 getstate.farm
 github.com
+githubusercontent.com
 gitlab.com
 greasyfork.org
 mediafire.com
