@@ -1,0 +1,8 @@
+dropbox.com
+getstate.farm
+github.com
+gitlab.com
+greasyfork.org
+mediafire.com
+mega.nz
+pastebin.com
